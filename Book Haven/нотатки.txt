@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <eta name="vievsport" content="width=device-wigth, initial-
+scale=1.0">
+    <title>Книжковий Рай</title>
+</head>
+<body>
+    <main class="main-section">
+
+    </main>
+
+    <section class="second-section">
+	
+	</section >
+	
+	<section class="third-section">
+	
+	</section>
+	
+	<footer class="footer">
+	
+	</footer>
+</body>
+</html>
+
+<img class="section-main-logo" src="logo.png" alt="логотип">
+        <h1 class="section-main-title">>Книжковий Рай</h1>
+		<h2 class="section-main-subtitle">Відкрий для себе наступну чудову книгу</h2>
+		<button class="section-main-button" type="button">Дізнатися більше<button>
+		
+<img src="library.jpeg" alt="зображення бібліотеки" class="second-section-img">
+ <div class="second-section-info">
+	
+	<p class="second-section-info"><span class="second-ection-name2">МАКСИМ ГЛАДЧЕНКО</span> - засновник Книжкового Раю</p>
+	
+</div>
+
+<h3 class="section-subtitle">РЕКОМЕНДОВАНІ КНИЖКИ</h3>
+<h3 class="section-title">Наша колекція</h3>
+<div class="third-section-books">
+
+	<img src="book1.png">
+	
+	<h4 class="book-title">Маленький принц</h4>
+	<p class="book-author">Антуан де Сент Екзюпері</p>
+	<p class="book-price">300 грн</p>
+</div>
+
+привіт мені треба щоб ти швиденько склепав мені css код на сайт, на якому ми будемо викладати інформацію про різні книжки та рекламу(боковими банерами як основне джерело прибутку), гамма темна, шрифт щоб підходив для усіх, але подобався за стилем читачам(простий, але темний й сучасний) зроби стилі для: h1, h2, h3, section, footer, 
